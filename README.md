@@ -26,4 +26,4 @@ The UWP target is not currently working. For some reason, the static Settings cl
 #### Insecure storage of authentication token and profile information
 For the purposes of this sample, the token and profile information that is recieved after a successful login is stored in Xam.Plugins.Settings. This is done merely as a convenience for this demo. This is **_NOT_** a secure storage medium. It is strongly advised that you instead use some sort of secure storage mechanism, such as the iOS keychain, or perhaps enctrypted SQLite or encrypted Akavache. **Secure storage of tokens and profiles is _your_ responsibility.**
 
-This secure key/value pair storage plugin may be a good fit: https://github.com/sameerkapps/SecureStorage
+This secure key/value pair secure storage plugin may be a good fit: https://github.com/sameerkapps/SecureStorage
