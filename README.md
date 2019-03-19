@@ -1,4 +1,4 @@
-NOTE: this is very outdated as of 03/19/19. I don't recommend using this demo. But I DO recommend using Auth0! It's great! See thier documentation here: https://auth0.com/docs/quickstart/native/xamarin/01-login
+NOTE: this is very outdated as of 03/19/19. I don't recommend using this demo. But I DO recommend using Auth0! It's great! See their documentation here: https://auth0.com/docs/quickstart/native/xamarin/01-login
 
 # Auth0Demo
 #### A demo of how to use the Auth0 client SDK with Xamarin Forms
